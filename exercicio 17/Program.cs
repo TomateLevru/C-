@@ -13,7 +13,7 @@ public class exercicio17
 
         for (int contador = 0; contador < anodofilme.Length; contador++)
         {
-            Console.WriteLine(listadefilmes[contador] + " - " + anodofilme[contador]);
+            Console.WriteLine($"{listadefilmes[contador]} - {anodofilme[contador]}");
         }
 
 
