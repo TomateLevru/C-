@@ -19,7 +19,7 @@ public class exercicio20
         Console.WriteLine($"Letra = '{letras}' letra para o ASCII = '{numLetra}'");
 
         int megabyte = 300;
-        int supermegabyte = (byte)megabyte;
+        byte supermegabyte = (byte)megabyte;
 
         Console.WriteLine($"Numero maior que um byte = '{megabyte}' numero byte = '{supermegabyte}'");
 
