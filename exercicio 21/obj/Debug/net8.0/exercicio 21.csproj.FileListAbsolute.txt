@@ -1,0 +1,14 @@
+C:\Users\PC-3\source\repos\exercicio 21\bin\Debug\net8.0\exercicio 21.exe
+C:\Users\PC-3\source\repos\exercicio 21\bin\Debug\net8.0\exercicio 21.deps.json
+C:\Users\PC-3\source\repos\exercicio 21\bin\Debug\net8.0\exercicio 21.runtimeconfig.json
+C:\Users\PC-3\source\repos\exercicio 21\bin\Debug\net8.0\exercicio 21.dll
+C:\Users\PC-3\source\repos\exercicio 21\bin\Debug\net8.0\exercicio 21.pdb
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\exercicio 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\exercicio 21.AssemblyInfoInputs.cache
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\exercicio 21.AssemblyInfo.cs
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\exercicio 21.csproj.CoreCompileInputs.cache
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\exercicio 21.dll
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\refint\exercicio 21.dll
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\exercicio 21.pdb
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\exercicio 21.genruntimeconfig.cache
+C:\Users\PC-3\source\repos\exercicio 21\obj\Debug\net8.0\ref\exercicio 21.dll
